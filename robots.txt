@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://terezavac.cz/sitemap.xml
